@@ -2,7 +2,7 @@
 $host = "alopalo.mysql.database.azure.com";
 $user = "fmaras";
 $pwd = "IjRm.657";
-$db = "alopalo";
+$db = "ruapdb";
  // $host = "m1simunovic-mysqldbserver.mysql.database.azure.com";
  // $user = "ruapUser@m1simunovic-mysqldbserver";
  // $pwd = "RUAP-LV3";
