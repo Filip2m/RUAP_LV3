@@ -1,6 +1,6 @@
 <?php
 $host = "alopalo.mysql.database.azure.com";
-$user = "fmaras";
+$user = "fmaras@alopalo";
 $pwd = "IjRm.657";
 $db = "ruapdb";
  // $host = "m1simunovic-mysqldbserver.mysql.database.azure.com";
