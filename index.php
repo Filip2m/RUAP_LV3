@@ -42,7 +42,7 @@ register.</p>
 //earlier from the Azure Portal. $host = "value of Data Source";
 $host = "alopalo.mysql.database.azure.com";
 $user = "fmaras";
-$pwd = "IjRm.657";
+$pwd = "";
 $db = "alopalo";
 // Connect to database.
 //$host = "127.0.0.1";
